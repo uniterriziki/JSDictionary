@@ -32,14 +32,13 @@ body {
 }
 .wrapper ul li {
   display: flex;
-  list-style: none;
   margin-bottom: 14px;
   align-items: center;
   padding-bottom: 17px;
   border-bottom: 1px solid #d9d9d9;
   justify-content: space-between;
 }
-.wrapper ul {
+.results {
   height: 0;
   opacity: 0;
   overflow: hidden;
